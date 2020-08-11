@@ -6,8 +6,10 @@
   },
   "rich-text": {
     "props": {
-      "text": "*Hello, World! By Tom*",
-      "textPosition": "CENTER"
+      "text": "**Hello, World!**",
+      "textPosition": "CENTER",
+      "textAlignment": "RIGHT",
+
     }
   }
 }
