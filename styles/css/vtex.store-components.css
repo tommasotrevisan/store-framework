@@ -19,21 +19,21 @@
     border: transparent;
 }
 
-  .infoCardContainer--vintage {
+.infoCardContainer--vintage {
     background-color: #edcfd1;
-  }
+}
 
-  .infoCardContainer--metal {
+.infoCardContainer--metal {
     background-color: #e1e1e1;
-  }
+}
 
-  .infoCardContainer {
+.infoCardContainer {
     max-width: 1260px;
     margin: 0 auto;
     padding: 0;
-  }
+}
 
-  .infoCardHeadline {
+.infoCardHeadline {
     color: black;
     font-weight: bold;
-  }
+}
