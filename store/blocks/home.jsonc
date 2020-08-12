@@ -8,9 +8,8 @@
       "flex-layout.col",
       "shelf",
       "slider-layout#home",
-      "responsive-layout",
-      "rich-text#desktop",
-      "rich-text#mobile"
+      "responsive-layout.desktop#desktop",
+      "responsive-layout.mobile#mobile"
     ]
   },
   
