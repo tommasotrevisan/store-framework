@@ -16,8 +16,8 @@
   "rich-text": {
     "props": {
       "text": "# Hello, World!",
-      "textPosition": "center",
-      "textAlignment": "center"
+      "textPosition": "CENTER",
+      "textAlignment": "CENTER"
     }
   },
   "info-card#button-right": {
@@ -30,7 +30,7 @@
       "callToActionMode": "button",
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center",
+      "textAlignment": "CENTER",
       "blockClass": "vintage"
     }
   },
@@ -44,7 +44,7 @@
       "callToActionMode": "link",
       "callToActionText": "Go to Collection",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center",
+      "textAlignment": "CENTER",
       "blockClass": "metal"
     }
   },
