@@ -35,10 +35,10 @@
   "props": {
     "width": "20%"
   },
-  "blocks": ["filter-navigator.v3"]
+  "children": ["filter-navigator.v3"]
 },
 "flex-layout.col#search": {
-  "blocks": ["search-content"]
+  "children": ["search-content"]
 },
 "search-content": {
   "blocks": ["gallery", "not-found"]
