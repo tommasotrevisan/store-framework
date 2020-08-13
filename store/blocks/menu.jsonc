@@ -21,7 +21,7 @@
       "vtex.menu@2.x:submenu#small"
     ]
   },
-  "menu-item#small-electronics":{
+  "menu-item#electronics":{
     "children":[
       "vtex.menu@2.x:submenu#electronics"
     ]
