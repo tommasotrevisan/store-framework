@@ -10,27 +10,24 @@
       }
   },
   
+
+  
   "menu-item#major-appliances":{
     "children":[
       "vtex.menu@2.x:submenu#major"
-    ],
-    "props":{
-        "orientation": "vertical"
-      }
+    ]
   },
   "menu-item#small-appliances":{
     "children":[
       "vtex.menu@2.x:submenu#small"
-    ],
-    "props":{
-        "orientation": "vertical"
-      }
+    ]
   },
   "menu-item#electronics":{
     "children":[
       "vtex.menu@2.x:submenu#electronics"
     ]
   },
+
 
 
   "vtex.menu@2.x:submenu#major": {
