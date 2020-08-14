@@ -1,44 +1,4 @@
 {
-  "menu-item#major-appliances": {
-      "props": {
-      "type": "custom",
-      "highlight": true,
-      "itemProps": {
-        "text": "Major Aplliances"
-      },
-      "children":[
-        "vtex.menu@2.x:submenu#major"
-      ]
-    }
-  },
-  "menu-item#small-appliances": {
-      "props":
-    {
-      "type": "category",
-      "highlight": true,
-      "itemProps": {
-        "categoryId": 2, 
-        "text": "Small Appliances"
-      },
-      "children":[
-        "vtex.menu@2.x:submenu#small"
-      ]
-    }
-  },
-  "menu-item#electronics": {
-      "props":
-    {
-      "type": "category",
-      "highlight": true,
-      "itemProps": {
-        "categoryId": 3, 
-        "text": "Electronics"
-      },
-      "children":[
-        "vtex.menu@2.x:submenu#electronics"
-      ]
-    }
-  },
   "menu-item#refrigerators": {
       "props":
     {
